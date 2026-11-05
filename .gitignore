@@ -1,0 +1,11 @@
+backup/
+build-tools/
+release/
+dist/
+publish/
+*.exe
+*.pdb
+*.zip
+*.log
+__pycache__/
+.vs/
